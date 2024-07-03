@@ -4,3 +4,5 @@ const token = "snkkajsdbkjbdfkjvkfjdpfionowren"
 
 const users = [email,senha,token];
 //pablo esteve aqui...........................
+const pablo = "pablo";
+console.log(pablo);
